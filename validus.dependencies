@@ -6,6 +6,7 @@
    {
     "repository": "cm-zenfone2/proprietary_vendor_asus",
     "target_path": "vendor/asus"
+    "branch:cm-13.0"
   }
   
 ]
